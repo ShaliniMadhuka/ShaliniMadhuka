@@ -8,7 +8,7 @@ I'm an IT undergraduate passionate about building robust, scalable software solu
 
 ---
 
-## 🎓 About me
+##  About me
 
 - BSc (Hons) Information Technology Undergraduate
 -  Passionate about full-stack development and backend engineering
@@ -18,7 +18,7 @@ I'm an IT undergraduate passionate about building robust, scalable software solu
 
 ---
 
-## 🚀 Technical interests
+##  Technical interests
 
 - Software Engineering
 - Full-Stack Development
@@ -29,7 +29,7 @@ I'm an IT undergraduate passionate about building robust, scalable software solu
 
 ---
 
-## 🛠️ Technical skills
+##  Technical skills
 
 | Category | Technologies |
 |---|---|
@@ -40,7 +40,7 @@ I'm an IT undergraduate passionate about building robust, scalable software solu
 
 ---
 
-## 📊 GitHub stats
+## GitHub stats
 
 ![Shalini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaliniMadhuka&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=378ADD&icon_color=378ADD)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaliniMadhuka&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=378ADD)
@@ -48,7 +48,7 @@ I'm an IT undergraduate passionate about building robust, scalable software solu
 
 ---
 
-## 🤝 Connect with me
+## Connect with me
 
 [![Gmail](https://img.shields.io/badge/Gmail-madukadilhari63%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madukadilhari63@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ShaliniMadhuka-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaliniMadhuka)
@@ -56,7 +56,6 @@ I'm an IT undergraduate passionate about building robust, scalable software solu
 ---
 
 <div align="center">
-
-✨ Thanks for visiting — let's build something amazing together 🚀
+ Thanks for visiting — let's build something amazing together 
 
 </div>
