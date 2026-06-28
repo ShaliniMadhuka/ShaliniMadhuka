@@ -52,6 +52,7 @@ I'm an IT undergraduate passionate about building robust, scalable software solu
 
 [![Gmail](https://img.shields.io/badge/Gmail-madukadilhari63%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madukadilhari63@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ShaliniMadhuka-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaliniMadhuka)
+[![Linkedin](https://img.shields.io/badge/Linkedin-ShaliniMadhuka-181717?style=for-the-badge&logo=github&logoColor=white)](linkedin.com/in/bangamuwage-shalini-madhuka-dilhari-b10698305/)
 
 ---
 
