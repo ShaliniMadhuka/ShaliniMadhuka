@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShaliniMadhuka&style=for-the-badge&color=378ADD" alt="Profile Views" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shalini+Madhuka+Dilhari;IT+Undergraduate;Full-Stack+Developer;Backend+%26+Software+Engineer" alt="Typing SVG" />
 </div>
 
@@ -20,35 +26,64 @@
 
 ---
 
-## Technical Interests
+## Tech Stack
 
-- Software Engineering
-- Full-Stack Development
-- Backend Development
-- AI & Machine Learning
-- Database Systems
-- Web Application Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,js,ts,react,html,css,nodejs,nestjs,git,github,vscode&theme=dark" alt="Tech Stack Icons" />
+</div>
 
 ---
 
-## Technical Skills
+## Technical Interests
 
-| Category | Technologies |
+<div align="center">
+
+| Area | Focus |
 |---|---|
-| Programming Languages | Java, C, JavaScript |
-| Frontend | React, CSS, HTML5 |
-| Backend | Node.js, NestJS |
-| Tools & Platforms | Git, GitHub, VS Code |
+| Software Engineering | System design, clean architecture |
+| Full-Stack Development | End-to-end web application development |
+| Backend Development | REST APIs, microservices, server-side logic |
+| AI & Machine Learning | Intelligent systems, data-driven solutions |
+| Database Systems | Relational & NoSQL databases |
+| Web Application Development | Modern, responsive web apps |
+
+</div>
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [MediCareX](https://github.com/ShaliniMadhuka) | Smart pharmacy management system with loyalty rewards | React, NestJS, Node.js |
+
+> More projects coming soon — stay tuned!
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaliniMadhuka&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=378ADD&icon_color=378ADD" alt="Shalini's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaliniMadhuka&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=378ADD" alt="Top Languages" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaliniMadhuka&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=378ADD&icon_color=378ADD" height="180" alt="Shalini's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaliniMadhuka&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=378ADD" height="180" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ShaliniMadhuka&theme=react&hide_border=true&background=0D1117&ring=378ADD&fire=378ADD&currStreakLabel=378ADD" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShaliniMadhuka&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaliniMadhuka&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
@@ -60,9 +95,11 @@
   <a href="mailto:madukadilhari63@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-madukadilhari63%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  &nbsp;
   <a href="https://github.com/ShaliniMadhuka">
     <img src="https://img.shields.io/badge/GitHub-ShaliniMadhuka-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/bangamuwage-shalini-madhuka-dilhari-b10698305/">
     <img src="https://img.shields.io/badge/LinkedIn-Shalini%20Madhuka%20Dilhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
