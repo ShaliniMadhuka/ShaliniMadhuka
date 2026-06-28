@@ -51,15 +51,7 @@
 
 ---
 
-## Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [MediCareX](https://github.com/ShaliniMadhuka) | Smart pharmacy management system with loyalty rewards | React, NestJS, Node.js |
-
-> More projects coming soon — stay tuned!
-
----
 
 ## GitHub Stats
 
