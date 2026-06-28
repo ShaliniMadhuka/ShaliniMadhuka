@@ -51,23 +51,18 @@
 
 ---
 
-
-
 ## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShaliniMadhuka&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=378ADD&icon_color=378ADD" height="180" alt="Shalini's GitHub Stats" />
   &nbsp;&nbsp;
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ShaliniMadhuka&theme=react&hide_border=true&background=0D1117&ring=378ADD&fire=378ADD&currStreakLabel=378ADD" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaliniMadhuka&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=378ADD" height="180" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShaliniMadhuka&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com?user=ShaliniMadhuka&theme=react&hide_border=true&background=0D1117&ring=378ADD&fire=378ADD&currStreakLabel=378ADD" alt="GitHub Streak" />
 </div>
 
 <br/>
